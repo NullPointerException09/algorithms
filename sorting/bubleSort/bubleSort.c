@@ -13,7 +13,7 @@ Description:
 #include<string.h>
 int main()
 {
-    int n,m[100],i,tem,j;
+    int n,m[100],i,temp,j;
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     scanf("%d",&m[i]);
