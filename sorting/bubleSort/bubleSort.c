@@ -13,13 +13,13 @@ Description:
 #include<string.h>
 int main()
 {
-    int n,m[100],i,temp,j;
-    scanf("%d",&n);
-    for(i=1;i<=n;i++)
+    int numberOfItems,m[100],i,temp,j;
+    scanf("%d",&numberOfItems);
+    for(i=1;i<=numberOfItems;i++)
     scanf("%d",&m[i]);
-    for(i=1;i<n;i++)
+    for(i=1;i<numberOfItems;i++)
     {
-        for(j=1;j<=n-i;j++)
+        for(j=1;j<=numberOfItems-i;j++)
         {
             if(m[j]>m[j+1])
             {
@@ -29,7 +29,7 @@ int main()
             }
         }
     }
-    for(i=n;i>=1;i--)
+    for(i=numberOfItems;i>=1;i--)
     printf("%d ",m[i]);
     return 0;
 }
