@@ -1,4 +1,4 @@
 ## Sorting Algorithm
 
-  [Buble Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort) <br>
-[ Insertion Sor ](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort)
+1. [Buble Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort) <br>
+2. [Insertion Sor](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort)
