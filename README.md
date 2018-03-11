@@ -1,5 +1,3 @@
 # algorithms
-
-# sorting algorithm
-    1.Buble Sort
-    2.Insertion Sor
+    1.[Buble Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort)
+    2.[Insertion Sor](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort)
