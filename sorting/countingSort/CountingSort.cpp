@@ -25,14 +25,14 @@ int main()
     for(int i=0; i<n; i++)
     {
         scanf("%d", &v);
-        arr[v]++;
+        arr[v]++;          
     }
 
     for(int i=1; i<=n; i++)
     {
         for(int j=1; j<=arr[i]; j++)
         {
-            printf("%d ", i);
+            printf("%d ", i);         // Print each unique value as counted time
         }
     }
     printf("\n");
