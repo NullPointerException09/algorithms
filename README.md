@@ -1,8 +1,6 @@
-# algorithms
 
-## Sorting Algorithm 
-<br/>
+### Sorting Algorithm
 
-1.[Bubble Sort](https://github.com/MD-ABDUL-MOMIN/algorithms/blob/master/sorting/bubleSort) <br/>
-2.[Insertion Sort](https://github.com/MD-ABDUL-MOMIN/algorithms/tree/master/sorting/insertionSort)<br/>
-3.[Quick Sort](https://github.com/MD-ABDUL-MOMIN/algorithms/tree/master/sorting/quickSort)
+1. [Buble Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort) <br>
+2. [Insertion Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/bubleSort) <br>
+3. [Counting Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/countingSort) <br>
