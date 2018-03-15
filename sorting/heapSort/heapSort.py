@@ -33,6 +33,6 @@ heapSort(arr)
 n=len(arr)
 print("sorted array is ")
 for i in range(n):
-	print("%d" %arr[i]) #3,4,6,13,11,12
+	print("%d" %arr[i]) #3,4,6,11,12,13
 
 ##*** For ordering desending order we have to find lower value in BuildHeap subpart
