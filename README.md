@@ -7,3 +7,4 @@
 4. [Quick Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/quickSort)  <br>
 5. [Selection Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/SelectionSort) <br>
 6. [Heap Sort](https://github.com/NullPointer09/algorithms/tree/master/sorting/heapSort) <br>
+
