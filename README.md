@@ -10,4 +10,4 @@
 
 ### Searching Algorithm
 
-1. [Binary Search](https://github.com/MD-ABDUL-MOMIN/algorithms/tree/master/searching/binarySearch) <br>
+1. [Binary Search](https://github.com/NullPointer09/algorithms/tree/master/searching/binarySearch) <br>
