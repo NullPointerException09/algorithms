@@ -17,6 +17,6 @@
 1. [Binary index Tree](https://github.com/NullPointer09/algorithms/tree/master/DataStructure/binaryIndexTree.py)<br>
 2. [Segment Tree](https://github.com/NullPointer09/algorithms/tree/master/DataStructure/segmentTree.py) <br>
 
-###Graph Theory
+### Graph Theory
 
-1. [Breadth First Search](https://github.com/MD-ABDUL-MOMIN/algorithms/blob/master/graphTheory/BreadthFirstSearch.py)<br>
+1. [Breadth First Search](https://github.com/NullPointer09/algorithms/blob/master/graphTheory/BreadthFirstSearch.py)<br>
